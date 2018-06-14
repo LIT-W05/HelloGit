@@ -16,6 +16,7 @@ namespace HelloGit
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            Console.WriteLine("yay!");
         }
 
         private void foo()
