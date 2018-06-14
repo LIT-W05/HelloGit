@@ -12,5 +12,10 @@ namespace HelloGit.Controllers
         {
             return View();
         }
+
+        public void NewRoute()
+        {
+            Response.Write("<h1>New Route</h1>");
+        }
     }
 }
