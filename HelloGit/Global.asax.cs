@@ -17,5 +17,10 @@ namespace HelloGit
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        private void foo()
+        {
+
+        }
     }
 }
