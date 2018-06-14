@@ -18,7 +18,11 @@ namespace HelloGit
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
 
-        private void foo()
+        private void Foo()
+        {
+
+        }
+        public void Bar()
         {
 
         }
