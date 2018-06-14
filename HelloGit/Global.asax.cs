@@ -19,7 +19,11 @@ namespace HelloGit
             Console.WriteLine("yay!");
         }
 
-        private void foo()
+        private void Foo()
+        {
+
+        }
+        public void Bar()
         {
 
         }
